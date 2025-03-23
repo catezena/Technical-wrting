@@ -68,4 +68,5 @@ How can you succinctly convey the purpose and key features of a product?
  11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 - Product Overview: A brief description of the product and its primary function.
 - Key Features: Highlight the main features that set
-- 
+ 12.Convey te purpose and key features of a programm 
+   To succinctly convey the purpose and key features of a product, focus on clarity and brevity. Start with a concise summary that states what the product is and what it does. Follow this with the main functionalities or benefits, listed in simple language. Bullet points work well for highlighting key features. Avoid unnecessary technical jargon, and organize the information logically to ensure it's easy for readers to grasp
